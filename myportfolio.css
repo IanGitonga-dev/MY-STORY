@@ -1,0 +1,23 @@
+body
+{
+  background-color: black;
+}
+h1{
+  border: ridge;
+  border-radius: 20px;
+   color:orange;
+    font-style:italic;
+     text-align: center;
+     background-color: black;
+   }
+h2{
+  border: ridge;
+  border-radius:20px:
+  color:green;
+  font-style: italic;
+  text-align: left;
+  background-color: black;
+}
+p{
+
+}

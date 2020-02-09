@@ -1,0 +1,18 @@
+body{
+  background-color:black
+  /* text-color: white; */
+}
+
+h1{
+  border: ridge;
+  border-radius: 20px;
+   color:orange;
+    font-style:italic;
+     text-align: center;
+     background-color: black;
+   }
+   p{
+     font-family:cursive;
+   }
+   ul{line-height: 30px
+   }
